@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="StaticPagesControllerTest" skipped="0" failures="0" errors="0" tests="4" assertions="8" time="0.023999">
-  <testcase name="test_should_get_home" classname="StaticPagesControllerTest" assertions="2" time="0.004328">
+<testsuite name="StaticPagesControllerTest" skipped="0" failures="0" errors="0" tests="4" assertions="8" time="0.023564">
+  <testcase name="test_should_get_contact" classname="StaticPagesControllerTest" assertions="2" time="0.007501">
   </testcase>
-  <testcase name="test_should_get_help" classname="StaticPagesControllerTest" assertions="2" time="0.006199">
+  <testcase name="test_should_get_about" classname="StaticPagesControllerTest" assertions="2" time="0.005891">
   </testcase>
-  <testcase name="test_should_get_contact" classname="StaticPagesControllerTest" assertions="2" time="0.005771">
+  <testcase name="test_should_get_home" classname="StaticPagesControllerTest" assertions="2" time="0.004417">
   </testcase>
-  <testcase name="test_should_get_about" classname="StaticPagesControllerTest" assertions="2" time="0.007701">
+  <testcase name="test_should_get_help" classname="StaticPagesControllerTest" assertions="2" time="0.005755">
   </testcase>
 </testsuite>
