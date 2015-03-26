@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="StaticPagesControllerTest" skipped="0" failures="0" errors="0" tests="3" assertions="6" time="0.09904700000000001">
+  <testcase name="test_should_get_home" classname="StaticPagesControllerTest" assertions="2" time="0.088897">
+  </testcase>
+  <testcase name="test_should_get_about" classname="StaticPagesControllerTest" assertions="2" time="0.00532">
+  </testcase>
+  <testcase name="test_should_get_help" classname="StaticPagesControllerTest" assertions="2" time="0.00483">
+  </testcase>
+</testsuite>

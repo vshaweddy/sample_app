@@ -9,7 +9,11 @@ class StaticPagesControllerTest < ActionController::TestCase
   test "should get home" do
     get :home
     assert_response :success
+<<<<<<< HEAD
     assert_select "title", "Home | #{@base_title}"
+=======
+    assert_select "title", "Ruby on Rails Tutorial Sample App"
+>>>>>>> c497f62c4f4623af167075ecb1ba95508910102f
   end
 
   test "should get help" do
